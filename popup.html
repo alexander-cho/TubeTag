@@ -4,8 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TubeTag</title>
+  <script src="popup.js"></script>
 </head>
 <body>
-  <h2 id="greet">Welcome to TubeTag</h2>
+  <h1 id="greet">Welcome to TubeTag</h1>
+  <h2>Number of tags: <span id="total">0</span></h2>
+  <label for="tagInput">Enter Link here:</label>
+  <input type="text" id="tagInput">
+  <button id="incrementButton">Click to add link</button>
+  <ul id="linkList"></ul>
 </body>
 </html>
