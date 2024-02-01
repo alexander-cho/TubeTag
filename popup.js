@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
             linkList.appendChild(listItem);
         }
     };
-
+    
     // Increment count, add link, and update the display when the button is clicked
     incrementButton.addEventListener('click', function() {
         // Get the entered link from the input field
