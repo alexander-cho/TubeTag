@@ -1,0 +1,6 @@
+2/6/2024
+
+current functionality of enter any text, then click submit - count goes up by 1, start list at bottom
+
+- check if it is a valid url
+- create functionality for removal of links, update count

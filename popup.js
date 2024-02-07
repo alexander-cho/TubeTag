@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const updateCount = () => {
         totalCount.textContent = linkCount;
     };
-
+    
     // Update the list of links
     const updateLinkList = () => {
         // Clear the existing list
