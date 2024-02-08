@@ -4,3 +4,9 @@ current functionality of enter any text, then click submit - count goes up by 1,
 
 - check if it is a valid url
 - create functionality for removal of links, update count
+
+2/7/2024
+
+- add scroll bar when list gets longer
+- add icon (thumbnail)
+
