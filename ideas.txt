@@ -1,12 +1,7 @@
-2/6/2024
-
 current functionality of enter any text, then click submit - count goes up by 1, start list at bottom
 
-- check if it is a valid url
+- check if it is a valid youtube url
 - create functionality for removal of links, update count
-
-2/7/2024
-
+    click a button/ or the tag itself
 - add scroll bar when list gets longer
-- add icon (thumbnail)
-
+- add icon next to bookmark(thumbnail)
